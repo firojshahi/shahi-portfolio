@@ -105,11 +105,13 @@ body {
     justify-content: center;
   }
   .gallery img {
-    width: 100%;
-    max-width: 250px;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+  border-radius: 8px; /* Optional for nicer style */
   }
+
   
   /* Footer */
   footer {
