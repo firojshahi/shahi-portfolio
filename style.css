@@ -68,6 +68,17 @@ body {
     background-color: #007acc;
     color: white;
   }
+.nav-list b {
+    font-weight: 600;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  .nav-list b.active,
+  .nav-list b:hover {
+    background-color: #007acc;
+    color: white;
+  }
   
   /* Dark mode button */
   #darkModeToggle {
