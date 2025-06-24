@@ -14,13 +14,6 @@ body {
   a:hover {
     text-decoration: underline;
   }
-  b {
-    color: #007acc;
-    text-decoration: none;
-  }
-  b:hover {
-    text-decoration: underline;
-  }
   .container {
     max-width: 900px;
     margin: auto;
